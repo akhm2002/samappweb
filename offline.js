@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1584377732,
+	"version": 1584381336,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -30,6 +30,7 @@
 		"images/padkomak-sheet0.png",
 		"images/downloadbtn-sheet0.png",
 		"images/loadrotatelogo-sheet0.png",
+		"images/tyu-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
